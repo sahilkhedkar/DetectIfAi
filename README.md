@@ -4,9 +4,8 @@
 
 DetectIfAI is a high-performance, minimal web application designed to identify AI-generated images with precision. Built with a focus on clean aesthetics and speed, it leverages advanced computer vision APIs to provide probabilistic analysis of image authenticity.
 
-Inspired by the design language of modern SaaS platforms like [dub.co](https://dub.co), DetectIfAI offers a premium user experience without the clutter.
 
-## 🚀 Features
+## Features
 
 - **Instant Detection**: Analyze JPG, PNG, and WEBP images in seconds.
 - **Drag-and-Drop**: A seamless, polished upload experience.
@@ -14,7 +13,7 @@ Inspired by the design language of modern SaaS platforms like [dub.co](https://d
 - **Clean Aesthetic**: Pure white background, high-contrast typography, and a mobile-responsive layout.
 - **Privacy-Centric**: No accounts, no data logging—just pure detection.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS
 - **Animations**: Framer Motion
@@ -22,7 +21,7 @@ Inspired by the design language of modern SaaS platforms like [dub.co](https://d
 - **API**: Sightengine (GenAI Detection)
 - **Backend**: Node.js (Next.js API Routes)
 
-## 💻 Local Setup
+## Local Setup
 
 Follow these steps to get the project running on your local machine:
 
@@ -51,10 +50,9 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🛡️ Disclaimer
+## Disclaimer
 
 AI detection is probabilistic and not 100% accurate. This tool is designed to assist in verification, not provide a definitive source of truth.
 
-## 👨‍💻 Created by
 
 Made with ❤️ by [Sahil Khedkar](https://x.com/sahilkhedkr)
