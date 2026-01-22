@@ -55,4 +55,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 AI detection is probabilistic and not 100% accurate. This tool is designed to assist in verification, not provide a definitive source of truth.
 
 
-Made with ❤️ by [Sahil Khedkar](https://x.com/sahilkhedkr)
+Made with ❤️ by [Sahil Khedkar](https://x.com/sahlgo)
