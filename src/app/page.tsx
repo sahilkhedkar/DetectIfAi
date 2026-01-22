@@ -114,7 +114,7 @@ export default function Home() {
           <span>❤️</span>
           <span className="mx-1 text-gray-200">•</span>
           <a
-            href="https://x.com/sahilkhedkr"
+            href="https://x.com/sahlgo"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 hover:text-gray-900 transition-colors group"
